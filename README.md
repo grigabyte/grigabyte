@@ -28,3 +28,4 @@ Codex       GitHub CLI      macOS
 
 I like tools that feel fast, clear, and useful in real work.
 
+<!-- Profile README -->
