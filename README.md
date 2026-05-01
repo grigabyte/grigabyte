@@ -1,6 +1,6 @@
 # grigabyte
 
-Automation, web, audio-reactive systems, digital visuals, and AI.
+Automation, web, audio-reactive systems, digital visuals, AI.
 
 `सोऽहं`
 
